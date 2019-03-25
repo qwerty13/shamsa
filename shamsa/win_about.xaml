@@ -1,0 +1,17 @@
+﻿<Window x:Class="shamsa.win_about"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:shamsa"
+        mc:Ignorable="d"
+        Title="win_about" Height="234.552" Width="300" ResizeMode="NoResize" WindowStyle="None" SnapsToDevicePixels="True" ShowInTaskbar="False">
+    <Grid Background="#FF7C9B00">
+        <TextBlock HorizontalAlignment="Left" Margin="15,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="67" Width="240" Foreground="White"><Run Text="Designed by "/><Run Text="Sadrodin Rastegar"/><LineBreak/><Run Text="@ Aftabgardan Cultural Center"/><LineBreak/><Run/><LineBreak/><Run Text="http://Shamsa.Aftab.cc"/></TextBlock>
+        <TextBlock TextWrapping="Wrap" Text="Shamsa" Margin="15,10,195,0" Foreground="White" FontSize="20" Height="31" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="86,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="14" Width="69" Foreground="#FFDBDBDB" FontSize="10"><Run Text="Ver. 1.1."/><Run FlowDirection="RightToLeft" Text="1"/></TextBlock>
+        <TextBlock Style="{StaticResource Dio_font}" Margin="278,-11,0,0" FontSize="23" x:Name="btn_exit" Canvas.Left="313" TextWrapping="Wrap" Foreground="White" MouseUp="btn_exit_MouseUp" Height="35" VerticalAlignment="Top" Text="×" Cursor="Hand" HorizontalAlignment="Left" Width="12" FontFamily="fonts/#DiodrumArabic ☞"/>
+        <CheckBox x:Name="chk_isstartup" Content="همراه با بالا آمدن ویندوز اجرا شود" HorizontalAlignment="Right" Margin="0,0,12,33.4" Foreground="White" Height="15" VerticalAlignment="Bottom" FlowDirection="RightToLeft" Loaded="chk_isstartup_Loaded" Click="chk_isstartup_Click"/>
+        <CheckBox x:Name="chk_isstartsmall" Content="به صورت کوچک اجرا شود" HorizontalAlignment="Right" Margin="0,0,12,11.4" Foreground="White" Height="15" VerticalAlignment="Bottom" FlowDirection="RightToLeft" Loaded="chk_isstartsmall_Loaded" Click="chk_isstartsmall_Click"/>
+    </Grid>
+</Window>

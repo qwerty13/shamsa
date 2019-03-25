@@ -1,0 +1,19 @@
+﻿<Window x:Name="win_timer1" x:Class="shamsa.win_timer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:shamsa"
+        mc:Ignorable="d"
+        Title="تایمر" Height="64.8" Width="278" ResizeMode="NoResize" Topmost="True" WindowStyle="None" Background="#FF8F0046" SnapsToDevicePixels="True" ShowInTaskbar="False" Icon="pics/logo.png">
+    <Grid>
+        <TextBox x:Name="txt_alarmtxt" Height="20" Margin="65,10,10,0" TextWrapping="Wrap" Text="هشدار!" VerticalAlignment="Top" FlowDirection="RightToLeft" TextChanged="txt_alarmtxt_TextChanged"/>
+        <Slider x:Name="sldr_time" Margin="59,35,6,0" VerticalAlignment="Top" FlowDirection="RightToLeft" SmallChange="1" Minimum="1" Maximum="120" Value="15" IsSnapToTickEnabled="True" Height="21" AutoToolTipPlacement="BottomRight" ValueChanged="sldr_time_ValueChanged"/>
+        <CheckBox x:Name="chk_timer" Content="فعال" HorizontalAlignment="Left" Margin="10,12,0,0" VerticalAlignment="Top" Foreground="White" Checked="chk_timer_Checked" Unchecked="chk_timer_Unchecked"/>
+        <TextBlock HorizontalAlignment="Left" Margin="8,35,0,0" TextWrapping="Wrap" Text="دقیقه" VerticalAlignment="Top" Height="20" Width="40" Foreground="White" FlowDirection="RightToLeft" FontSize="13"/>
+        <Grid x:Name="grd_alarmshow" Margin="0,0,182,-0.2" Background="#FF076F12" Cursor="Hand" MouseLeftButtonUp="grd_alarmshow_MouseLeftButtonUp">
+            <TextBlock x:Name="lbl_showalarmtxt" TextWrapping="Wrap" FlowDirection="RightToLeft" Foreground="White" FontSize="14" TextAlignment="Center" Margin="0,5,0,20"><Run FlowDirection="RightToLeft" Text="هشدار!"/></TextBlock>
+            <TextBlock TextWrapping="Wrap" FlowDirection="RightToLeft" Foreground="White" TextAlignment="Center" Margin="3,46,0,0" Text="برای ادامه کلیک کنید" FontSize="10" HorizontalAlignment="Left" Width="88"/>
+        </Grid>
+    </Grid>
+</Window>
