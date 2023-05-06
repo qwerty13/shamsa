@@ -21,3 +21,28 @@ C:\Users\qwerty13-PC\documents\visual studio 2017\Projects\shamsa\shamsa\bin\Deb
 C:\Users\qwerty13-PC\documents\visual studio 2017\Projects\shamsa\shamsa\bin\Debug\shamsa.application
 C:\Users\qwerty13-PC\documents\visual studio 2017\Projects\shamsa\shamsa\obj\Debug\shamsa.exe.manifest
 C:\Users\qwerty13-PC\documents\visual studio 2017\Projects\shamsa\shamsa\obj\Debug\shamsa.application
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa.csproj.AssemblyReference.cache
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa.csproj.SuggestedBindingRedirects.cache
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\MainWindow.g.cs
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\win_about.g.cs
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\win_timer.g.cs
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\App.g.cs
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa_MarkupCompile.cache
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa_MarkupCompile.lref
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\App.baml
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\MainWindow.baml
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\win_about.baml
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\win_timer.baml
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa.g.resources
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa.Properties.Resources.resources
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa.csproj.GenerateResource.cache
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa.csproj.CoreCompileInputs.cache
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa.exe
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa.pdb
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\bin\Debug\shamsa.exe.config
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\bin\Debug\shamsa.exe.manifest
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\bin\Debug\shamsa.application
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\bin\Debug\shamsa.exe
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\bin\Debug\shamsa.pdb
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa.exe.manifest
+C:\Users\s_qwe\source\repos\qwerty13\shamsa\shamsa\obj\Debug\shamsa.application

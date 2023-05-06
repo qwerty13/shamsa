@@ -57,7 +57,8 @@ namespace shamsa
         {
             try
             {
-                lbl_showalarmtxt.Text = txt_alarmtxt.Text;
+                if (lbl_showalarmtxt != null)
+                    lbl_showalarmtxt.Text = txt_alarmtxt.Text;
             }
             catch (Exception)
             {
